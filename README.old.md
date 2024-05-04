@@ -1,1 +1,0 @@
-# blazingly-fast-file-manager
